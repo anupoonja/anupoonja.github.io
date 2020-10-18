@@ -1,0 +1,21 @@
+
+.jumbotron {
+    background-image: url("Navelgazing.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(136, 177, 175);
+  }
+  
+  h1 {
+    background-color: lightgoldenrodyellow;
+    color: white;
+    opacity: 0.8;
+  }
+
+  p {
+    color: white;
+  }
+
